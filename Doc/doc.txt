@@ -1,0 +1,16 @@
+1. Create a react native app
+cmd : npx @react-native-community/cli init appname
+
+2. Add local.properties file inside android folder and initialize the path of the android sdk file 
+
+example : sdk.dir = C:\\Users\\subha\\AppData\\Local\\Android\\Sdk
+
+3. Run project : npm start 
+  These are the options for devices:
+	i - run on iOS
+	a - run on Android
+	r - reload app
+	d - open Dev Menu
+	j - open DevTools
+
+
